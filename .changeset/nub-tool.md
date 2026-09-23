@@ -5,4 +5,4 @@
 "@manypkg/cli": minor
 ---
 
-Add NubTool for nub.lock + package.json workspaces monorepos.
+Add `NubTool` for monorepos with `nub.lock` and `package.json` workspaces
